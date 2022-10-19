@@ -1,0 +1,208 @@
+
+body {
+    font-family: "Open Sans", Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 20px;
+    margin: 10px;
+  }
+
+
+  /* container-1 */
+
+  .main-container {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .heading{
+      font-size: 3.5em;
+  }
+
+  .logo-name{
+      text-align: center;
+      font-size: 2em;
+      letter-spacing: 2px;
+      margin: 50px 0px 0px 40px;
+      width: 20%;
+      background-image: linear-gradient(to top,rgb(252, 102, 102),rgb(240, 236, 15),rgb(247, 118, 14));
+      border-radius: 10px;
+      
+  }
+
+  .para-1,.btn-2{
+      margin: 6px;
+      padding: 4px;
+  }
+  button{
+      background-color: rgba(206, 29, 16, 0.664);
+      padding: 5px;
+  }
+  .logo span{
+      color: brown;
+  }
+
+    button:active{
+        color: blue;
+    }
+   button:hover{
+       background-color: red;
+   }
+   a:active{
+       color: blue;
+   }
+   a:hover{
+       background-color: red;
+   }
+
+  .nvbar{
+      list-style: none;
+      display: flex;
+      margin-left: 50%;
+      margin-right: 15%;
+      width: 40%;
+      height: 60px;
+      padding: 0px 70px;
+      justify-content: space-between;
+      align-items: center;
+  }
+  a{
+      text-decoration: none;
+  }
+  
+  .container-1{
+      background-color:antiquewhite
+  }
+
+  .main-content-1{
+    display: flex;
+    margin: 15px;
+   
+}
+.centre{
+    text-align: center;
+}
+.content-1{
+    width: 50%;
+}
+
+
+
+.my-form{
+    background-color: brown;
+    color: white;
+    width: 180px;
+    height: 260px;
+    margin: 4px;
+    padding: 6px;
+}
+  label{
+      width: 100px;
+      display: inline-block;
+  }
+
+  .text-yellow{
+      color: yellow;
+  }
+  .text-brown{
+      color: brown;
+  }
+
+  /* container-2 */
+  
+
+  .container-2{
+      max-width: 960px;
+      margin-left: auto;
+      margin-right: auto;
+      background-color: antiquewhite;
+  }
+
+ #food{
+     width: 150px;
+     height: 120px;
+     image-resolution: 150px;
+     margin-top: 4px;
+     margin-bottom: 4px;
+ }
+
+
+ th,td{
+     padding-left: 14px;
+     padding-right: 14px;
+ }
+ td{
+     text-align: center;
+ }
+ tr:nth-child(odd){
+     background-color: antiquewhite;
+
+ }
+
+ tr:nth-child(even){
+    background-color: rgb(249, 250, 215);
+
+}
+ 
+ table{
+     width: 100%;
+ }
+
+ /* container-3 */
+
+ .footer{
+     padding: 5px;
+ }
+
+ .table1-2{
+     width: 100%;
+     padding: 10px;
+     margin: auto;
+     margin-bottom: 10px;
+ }
+ .table2-3{
+     width: 100%;
+     padding: 10px;
+     margin: auto;
+ }
+ 
+ .A{
+     margin: 4px;
+     padding: 40px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .m{
+     background-color: red;
+     padding: 30px;
+     margin-right: 40px;
+     margin-bottom: 40px;
+ }
+
+ .o{
+    background-color: yellow;
+    padding: 30px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+ }
+ .n{
+    background-color: green;
+    padding: 30px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+
+ }
+ 
+ .p{
+    background-color: pink;
+    padding: 30px;
+    margin-bottom: 40px;
+    margin-right: 40px;
+ }
+  
+ 
+
+
+
+
+ 
